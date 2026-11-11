@@ -1,5 +1,5 @@
 ---
-description: İlgili projeye ufaktan göz atıp docs oluşturur.
+description: İlgili projeye ufaktan göz atıp proje için döküman oluşturur.
 ---
 
 # Ön talimat
